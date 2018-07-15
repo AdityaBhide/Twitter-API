@@ -7,9 +7,9 @@ you can create an app at this link --------- https://apps.twitter.com/
 
 The analysis is as follows:
 
-  you have to give the topic for which you will receive the respective tweets..
+  --you have to give the topic for which you will receive the respective tweets..
   
-  the tweets will be classified as positive or negative..
+  --the tweets will be classified as positive or negative..
   
-  you will also get the percentage of positive, negative and neutral tweets...
+  --you will also get the percentage of positive, negative and neutral tweets...
   
